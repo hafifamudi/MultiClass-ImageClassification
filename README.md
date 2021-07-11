@@ -14,4 +14,4 @@ and open your notebook again
 
 ### The result
 
-![Alt Text](/image/resultImageClassification.png)
+![Alt Text](resultImageClassification.png)
